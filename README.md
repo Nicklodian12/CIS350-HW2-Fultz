@@ -5,4 +5,4 @@
 
 ## Technical Background
 - I have around a year of programming experience. I have made a couple games, some original. I mostly have coded in C# but I have done projects involving more languages (Java, Python, C, C#, C++).
-- Favorite Meme: https://boulderbugle.com/httpswwwyoutubecomwatchvxaikwgrc6o0-As1VB8hk
+- Favorite Meme: https://www.youtube.com/watch?v=xvFZjo5PgG0&t=1s
